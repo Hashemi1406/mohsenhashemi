@@ -1,2 +1,4 @@
 console.log("hello");
-alert('hello')
+alert("hello");
+// function...
+console.log("HIIIIII");
